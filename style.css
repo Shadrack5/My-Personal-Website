@@ -86,3 +86,9 @@ body{
     width: 50%;
 
 }
+.tab-contents ul li{
+    list-style: none;
+}
+.tab-contents{
+    margin-top: -300px;
+}
