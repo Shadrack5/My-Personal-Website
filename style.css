@@ -89,6 +89,10 @@ body{
 .tab-contents ul li{
     list-style: none;
 }
-.tab-contents{
-    margin-top: -300px;
+#about{
+    margin-top: -700px;
+}
+.tab-contents ul li span{
+    color: #b54769;
+    font-size: 14px;
 }
